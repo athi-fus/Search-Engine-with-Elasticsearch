@@ -9,7 +9,7 @@ Created a search engine for movies using Elasticsearch. Personalized the result 
 <br />
 <div align="center">
   <a href="https://www.elastic.co/">
-    <img src="elastic.jpg" alt="Logo" width="80" height="80">
+    <img src="elastic.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Movie Search Engine with Elasticsearch</h3>
@@ -67,8 +67,8 @@ Key learning aspects about this project:
 [Scikit-Learn-url]: https://scikit-learn.org/stable/
 [Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
 [Keras-url]: https://keras.io/
-[Matplotlib]: [https://img.shields.io/badge/Matplotlib?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+[Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [Matplotlib-url]: https://matplotlib.org/
-[Conda]: [https://img.shields.io/badge/Conda?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+[Conda]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white
 [Conda-url]: https://docs.conda.io/en/latest/
 
