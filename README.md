@@ -57,8 +57,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:  www.linkedin.com/in/athina-fouseki
 
-[Python]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: [https://nextjs.org/](https://www.python.org/)
+[Python]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
 [Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [Tensorflow.js]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
@@ -67,11 +67,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Numpy-url]: https://numpy.org/
 [Scikit-Learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
 [Scikit-Learn-url]: https://scikit-learn.org/stable/
-[Keras]: [https://img.shields.io/badge/NLTK?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+[Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
 [Keras-url]: https://keras.io/
 [Matplotlib]: [https://img.shields.io/badge/Matplotlib?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 [Matplotlib-url]: https://matplotlib.org/
 [Conda]: [https://img.shields.io/badge/Conda?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-[Conda-url]: [https://matplotlib.org/
-](https://docs.conda.io/en/latest/)
+[Conda-url]: https://docs.conda.io/en/latest/
 
