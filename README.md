@@ -9,7 +9,7 @@ Created a search engine for movies using Elasticsearch. Personalized the result 
 <br />
 <div align="center">
   <a href="https://www.elastic.co/">
-    <img src="elastic.png" alt="Logo" width="80" height="80">
+    <img src="elastic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Movie Search Engine with Elasticsearch</h3>
@@ -39,8 +39,6 @@ Key learning aspects about this project:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
@@ -48,7 +46,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Scikit-Learn][Scikit-Learn]][Scikit-Learn-url]
 * [![Keras][Keras]][Keras-url]
 * [![Matplotlib][Matplotlib]][Matplotlib-url]
-
+* [![Conda][Conda]][Conda-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +59,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Python-url]: https://www.python.org/
 [Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
-[Tensorflow.js]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[Tensorflow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [Tensorflow-url]: https://www.tensorflow.org/
 [Numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [Numpy-url]: https://numpy.org/
